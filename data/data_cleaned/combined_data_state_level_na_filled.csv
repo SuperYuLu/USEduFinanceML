@@ -1,4 +1,4 @@
-State,Year,Enroll,Total_Revenue,Total_Expenditure,Expenditure_Per_Pupil,Population,GDP_Per_Capita,Income_Per_Capita,Known_Property_Crimes,Unemployment_Rate
+state,year,enroll,total_revenue,total_expenditure,expenditure_per_pupil,population,gdp_per_capita,income_per_capita,known_property_crimes,unemployment_rate
 Alabama,1992,720380.0,2678885,2653798,3616.0,4139269.0,31568.18735363148,17537,163966.0,0.07566666666666669
 Alaska,1992,117599.95451348182,1049591,972488,8450.0,587073.0,48253.235884562135,23938,28394.0,0.08916666666666669
 Arizona,1992,639006.437628787,3258079,3401580,4381.0,3867333.0,26972.35230212286,18129,235883.0,0.07541666666666667
